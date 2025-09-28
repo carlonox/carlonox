@@ -18,8 +18,8 @@
 
 ### 🌐 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-📧 [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aaa-113ab3283)
+📧 [cjcuervob@gmail.com](mailto:cjcuervob@gmail.com)
 
 ---
 
