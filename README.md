@@ -54,4 +54,4 @@ Implementación del clásico juego con IA estratégica
 
 ---
 
-> 💡 *"Construyendo soluciones inteligentes con código limpio y algoritmos eficientes"*
+
