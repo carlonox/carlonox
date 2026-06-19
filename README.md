@@ -23,6 +23,9 @@ Aplicación de escritorio para gestión académica con CRUD completo, sistema de
 Tres en Raya con CPU que evalúa 6 niveles de estrategia: ganar, bloquear, maximizar jugada propia, tomar la mejor del oponente, priorizar esquina o aleatorizar.
 `C++`
 
+**[Challup](https://github.com/shofi1003/BugBusters_grupo11_ingesoft1)**
+Aplicación móvil de retos diarios personalizados con IA. Perfilación inteligente mediante cuestionario, generación de retos ajustados al progreso del usuario y gamificación con rachas, puntos y rankings. Proyecto grupal para Ingeniería de Software I (Grupo BugBusters, 2025-2).
+`Kotlin` `Firebase` `Android` `IA`
 ---
 
 ## Stack
