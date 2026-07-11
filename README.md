@@ -44,7 +44,7 @@ Tres en Raya con CPU que evalúa 6 niveles de estrategia: ganar, bloquear, maxim
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carlonox&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs/?username=carlonox&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 ---
 
